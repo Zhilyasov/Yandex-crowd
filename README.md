@@ -2,9 +2,9 @@
 
 ### Ссылка на проект
 
-https://rodandr13.github.io/yandex_crowd_landing/
+https://github.com/Zhilyasov/Yandex-crowd
 
-![Скриншот страницы](https://github.com/rodandr13/yandex_crowd_landing/blob/main/assets/preview.png?raw=true)
+![Скриншот страницы](https://github.com/Zhilyasov/Yandex-crowd/blob/main/assets/preview.png?raw=true)
 
 ### DEMO
 
